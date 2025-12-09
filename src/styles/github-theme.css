@@ -1,0 +1,20 @@
+:root {
+  /* GitHub-ish neutrals */
+  --gh-bg: #0d1117;
+  --gh-bg-2: #161b22;
+  --gh-surface: #0d1117;
+  --gh-border: #30363d;
+
+  --gh-fg: #c9d1d9;
+  --gh-fg-muted: #8b949e;
+
+  /* GitHub-ish accents */
+  --gh-accent: #2f81f7;      /* blue */
+  --gh-success: #3fb950;     /* green */
+  --gh-warning: #d29922;     /* yellow */
+  --gh-danger: #f85149;      /* red */
+
+  /* Card */
+  --gh-card: #0f172a;
+  --gh-card-2: #111827;
+}

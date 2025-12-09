@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import "./github-theme.css";
+
+html, body {
+  background: var(--gh-bg);
+  color: var(--gh-fg);
+}
+
+* {
+  border-color: var(--gh-border);
+}
